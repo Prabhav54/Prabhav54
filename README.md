@@ -1,145 +1,149 @@
-<h1 align="center">Hi, I'm Prabhav Khare 👋</h1>
-<h3 align="center">Data Science & Machine Learning Engineer | Chemical Engineering, NIT Rourkela</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+systems;LLM+%2B+RAG+%7C+Time-Series+Forecasting+%7C+MLOps;ETL+pipelines+%E2%86%92+Models+%E2%86%92+Deployment" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=200&section=header&text=Prabhav%20Khare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Chemical%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/prabhav-khare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:prabhavkhare54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/NIT_Rourkela-FF6B00?style=for-the-badge&logo=academia&logoColor=white"></a>
-</p>
+<a href="https://linkedin.com/in/prabhav-khare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:prabhavkhare54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Prabhav54"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
----
+</div>
 
-### About Me
+<br/>
 
-- 🎓 Pre-final year **B.Tech Chemical Engineering** at NIT Rourkela, building a second specialization in **Data Science & ML**
-- 🔬 ML Research Intern — built a drug-discovery ETL + ensemble modeling pipeline (RCSB/UniProt/ChEMBL APIs, R² = 0.79 on bioactivity prediction)
-- 🌍 Currently building **production-grade ML systems**: geospatial AQI forecasting (LSTM/GRU ensembles) and hybrid RAG retrieval engines
-- 🧪 My ChemE background means I don't just fit models — I understand the domain behind chemistry, environmental, and pharma datasets
-- 📈 Actively competing in case-based DS simulations (BCG X) and robotics competitions (E-Yantra IIT Bombay, AtomQuest)
-- ⚡ Always shipping: every project below is deployed, not just notebooked
+> I build ML systems that go from raw data to a deployed, usable product — not just notebooks. Chemical Engineering background means I actually understand the chemistry, environmental, and pharma data I model, not just the math around it.
 
----
+<br/>
 
-### 🛠️ Tech Stack
-
-**Languages**
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/DAX-FFCA28?style=flat-square&logo=microsoft&logoColor=black">
-</p>
-
-**ML / Data Science**
-<p align="left">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-</p>
-
-**Backend / Infra**
-<p align="left">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
-
-**Tools**
-<p align="left">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-</p>
-
----
-
-### 🚀 Featured Projects
+## What I'm building right now
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-**[🌫️ AQI Geospatial Forecasting Engine](https://github.com/Prabhav54)**
+### 🌫️ AQI Forecasting Engine
+Geospatial ML pipeline forecasting 6 pollutants across 50+ Indian cities, 24 hours out.
 
-Asynchronous fault-tolerant ETL ingesting hourly pollution data across 50+ Indian cities, with a LightGBM + LSTM/GRU ensemble forecasting 6 pollutants 24hrs ahead.
-
-`TimescaleDB` `PyTorch` `LightGBM` `Docker`
-
-📊 **87%** accuracy on 24hr multi-step predictions
-⚡ **<200ms** query latency via TimescaleDB window functions
+**Stack:** TimescaleDB · PyTorch (LSTM/GRU) · LightGBM · Docker
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-**[🛒 tolmol.ai — Hybrid RAG Retail Engine](https://github.com/Prabhav54)**
+### 🛒 tolmol.ai
+Hybrid RAG router for e-commerce search — dynamically splits queries across vector search and Text-to-SQL.
 
-LangChain RAG router dynamically dispatching e-commerce queries across pgvector and Text-to-SQL, with automated competitor catalog ingestion.
-
-`LangChain` `pgvector` `FastAPI` `LLaMA-3`
-
-⚡ **<300ms** retrieval latency across 5,000+ embeddings
-🔁 **100%** duplicate elimination via URL hashing
+**Stack:** LangChain · pgvector · FastAPI · LLaMA-3
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-**[🧬 Drug Discovery — Carbonic Anhydrase Inhibitors](https://github.com/Prabhav54)**
+### 🧬 Drug Discovery Pipeline
+End-to-end bioactivity prediction + de novo molecule generation for Carbonic Anhydrase inhibitors.
 
-ML Research Internship project: ensemble bioactivity model + RDKit de novo generation + full virtual screening pipeline deployed for one-click use.
-
-`RDKit` `scikit-learn` `AutoDock Vina` `Streamlit`
-
-🎯 **R² = 0.79** on pIC50 prediction (+12% over DNN baseline)
-🧪 10,000+ compounds processed via automated ETL
-
-</td>
-<td width="50%">
-
-**More on GitHub →**
-
-Additional portfolio work in SQL analytics (Netflix, Spotify, retail sales) and churn prediction modeling. Each repo ships with a clean README, modular code, and a reproducible setup.
-
-[**See all repositories →**](https://github.com/Prabhav54?tab=repositories)
+**Stack:** RDKit · scikit-learn · AutoDock Vina
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## Impact, in numbers
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhav54&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
 
----
+| Metric | Value | Project |
+|:--|:--:|:--|
+| Bioactivity model accuracy | **R² = 0.79** | Drug Discovery (+12% over DNN baseline) |
+| 24-hr forecast accuracy | **87%** | AQI Engine, across 6 pollutants |
+| Vector retrieval latency | **< 300ms** | tolmol.ai, 5,000+ embeddings |
+| DB query latency | **< 200ms** | AQI Engine, TimescaleDB window functions |
+| Duplicate writes eliminated | **100%** | tolmol.ai, URL-hash deduplication |
+| Compounds processed | **10,000+** | Drug Discovery, automated ETL |
 
-### 🏆 Achievements
+</div>
 
-| Event | Result |
-|---|---|
-| **E-Yantra Robotics Competition**, IIT Bombay | Stage 3 of 4 — PID-controlled self-balancing robot (STM32) |
-| **AtomQuest 2025**, Atomberg | Semi-Finalist — autonomous hybrid vacuum-mopping robot |
-| **e-Toycathon 2025**, CDAC–MeitY | Stage 2 — Electronics & IT control/automation system |
-| **BCG X Data Science Job Simulation** | Completed — EDA & Random Forest churn modeling |
+<br/>
 
----
+## Tech stack
 
-<p align="center">
-  <i>Open to Data Science / ML / Analytics roles — let's connect.</i>
-</p>
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,javascript,html,css"/>
+
+**ML / Data Science**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy"/>
+<img height="48" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico"/>
+<img height="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/>
+
+**Backend / Data Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,vscode"/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=powerbi"/>
+<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+
+</div>
+
+<br/>
+
+## GitHub activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prabhav54&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhav54&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhav54&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhav54&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+</div>
+
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+
+### Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prabhav54/Prabhav54/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prabhav54/Prabhav54/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prabhav54/Prabhav54/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+## Achievements
+
+<div align="center">
+
+| Competition | Result | What I built |
+|:--|:--:|:--|
+| E-Yantra Robotics, IIT Bombay | Stage 3 / 4 | PID-controlled self-balancing robot (STM32) |
+| AtomQuest 2025, Atomberg | Semi-Finalist | Autonomous hybrid vacuum-mopping robot |
+| e-Toycathon 2025, CDAC–MeitY | Stage 2 | Electronics + IT control/automation system |
+| BCG X Data Science Simulation | Completed | EDA + Random Forest churn modeling |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Open to Data Science / ML / Analytics roles — reach out via LinkedIn or email above.**
+
+<img src="https://komarev.com/ghpvc/?username=Prabhav54&style=flat&color=1D9E75" alt="profile views"/>
+
+</div>
