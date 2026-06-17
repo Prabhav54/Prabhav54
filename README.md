@@ -63,12 +63,12 @@ End-to-end regression pipeline with full EDA, feature engineering, and model com
 </td>
 <td width="33%" valign="top">
 
-### 🎓 Student Performance Rater
-EDA-driven regression model predicting test scores from demographic and academic factors, deployed via Flask.
+### 🎬 Netflix Data Analysis (SQL)
+Exploratory SQL analysis on Netflix's content catalog — content-type trends, ratings distribution, and release-year patterns.
 
-**Stack:** Scikit-learn · CatBoost · Flask
+**Stack:** SQL · PostgreSQL/MySQL · Data Cleaning
 
-[`Repo →`](https://github.com/Prabhav54/Student-Performance-Rater)
+[`Repo →`](https://github.com/Prabhav54/NETFLIX-Data-Analysis-using-SQL)
 
 </td>
 <td width="33%" valign="top">
@@ -108,11 +108,20 @@ SQL analytics, NLP/GenAI experiments, and ongoing portfolio work — new repos a
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,c,sql,javascript,html,css"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 **ML / Data Science**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -120,11 +129,15 @@ SQL analytics, NLP/GenAI experiments, and ongoing portfolio work — new repos a
 
 **Backend / Data Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql,docker,git,vscode"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=jupyter"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
