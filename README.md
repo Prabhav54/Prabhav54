@@ -1,20 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=200&section=header&text=Prabhav%20Khare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Chemical%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=200&section=header&text=Prabhav%20Khare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Data%20Engineering%20%7C%20Analytics&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/prabhav-khare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:prabhavkhare54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Prabhav54"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.kaggle.com/prabhavkhare"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-> I build ML systems that go from raw data to a deployed, usable product — not just notebooks. Chemical Engineering background means I actually understand the chemistry, environmental, and pharma data I model, not just the math around it.
+> I build end-to-end data systems — from ETL pipelines and database design to ML models and deployment. Comfortable across the full stack: ingesting and modeling data (DS), engineering the pipelines and infra that move it (DE), and turning it into decisions through analysis and dashboards (DA).
 
 <br/>
 
-## What I'm building right now
+## Recent projects
 
 <table>
 <tr>
@@ -25,6 +26,8 @@ Geospatial ML pipeline forecasting 6 pollutants across 50+ Indian cities, 24 hou
 
 **Stack:** TimescaleDB · PyTorch (LSTM/GRU) · LightGBM · Docker
 
+[`Repo →`](https://github.com/Prabhav54/AQI_Prediction_Engine)
+
 </td>
 <td width="33%" valign="top">
 
@@ -33,6 +36,8 @@ Hybrid RAG router for e-commerce search — dynamically splits queries across ve
 
 **Stack:** LangChain · pgvector · FastAPI · LLaMA-3
 
+[`Repo →`](https://github.com/Prabhav54/tolmol.ai)
+
 </td>
 <td width="33%" valign="top">
 
@@ -40,6 +45,39 @@ Hybrid RAG router for e-commerce search — dynamically splits queries across ve
 End-to-end bioactivity prediction + de novo molecule generation for Carbonic Anhydrase inhibitors.
 
 **Stack:** RDKit · scikit-learn · AutoDock Vina
+
+[`Repo →`](https://github.com/Prabhav54/CARBONIC_Anhydrase_Pipeline)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 💎 Gemstone Price Prediction
+End-to-end regression pipeline with full EDA, feature engineering, and model comparison (Linear, RF, XGBoost).
+
+**Stack:** scikit-learn · CatBoost · Pandas
+
+[`Repo →`](https://github.com/Prabhav54/GEMSTONE-Price-Prediction)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 Student Performance Rater
+EDA-driven regression model predicting test scores from demographic and academic factors, deployed via Flask.
+
+**Stack:** Scikit-learn · CatBoost · Flask
+
+[`Repo →`](https://github.com/Prabhav54/Student-Performance-Rater)
+
+</td>
+<td width="33%" valign="top">
+
+### More on GitHub
+
+SQL analytics, NLP/GenAI experiments, and ongoing portfolio work — new repos added regularly.
+
+[**See all repositories →**](https://github.com/Prabhav54?tab=repositories)
 
 </td>
 </tr>
@@ -70,22 +108,25 @@ End-to-end bioactivity prediction + de novo molecule generation for Carbonic Anh
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,c,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,c,sql,javascript,html,css"/>
 
 **ML / Data Science**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy"/>
-<img height="48" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico"/>
-<img height="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RDKit-1E88E5?style=for-the-badge"/>
 
 **Backend / Data Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,docker,git,vscode"/>
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=powerbi"/>
-<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+<img src="https://skillicons.dev/icons?i=jupyter"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
 
