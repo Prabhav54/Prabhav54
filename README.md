@@ -63,12 +63,12 @@ End-to-end regression pipeline with full EDA, feature engineering, and model com
 </td>
 <td width="33%" valign="top">
 
-### 🎬 Netflix Data Analysis (SQL)
-Exploratory SQL analysis on Netflix's content catalog — content-type trends, ratings distribution, and release-year patterns.
+### 🎬 UPI-Digital-Payments-Analytics-BI-Dashboard-
+Exploratory SQL analysis on ndia's UPI (Unified Payments Interface) ecosystem — from raw NPCI/RBI statistics Product Statistics, Bank-wise performance, and go-live year.
 
-**Stack:** SQL · PostgreSQL/MySQL · Data Cleaning
+**Stack:** ETL · SQLite · POWER BI
 
-[`Repo →`](https://github.com/Prabhav54/NETFLIX-Data-Analysis-using-SQL)
+[`Repo →`](https://github.com/Prabhav54/UPI-Digital-Payments-Analytics-BI-Dashboard.git)
 
 </td>
 <td width="33%" valign="top">
